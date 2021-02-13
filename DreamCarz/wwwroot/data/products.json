@@ -1,6 +1,6 @@
 [
   {
-    "id": "vogueandcode-pretty-girls-code-tee",
+    "id": "c12",
     "maker": "Lamborgini",
     "img": "data/images/c12.jpg",
     "title": "2021 McLaren 765LT ",
@@ -9,14 +9,14 @@
   },
 
   {
-    "id": "selinazawacki-shirt",
+    "id": "c14",
     "maker": "Tata",
     "img": "data/images/c14.jpg",
     "title": "Jaguar XJ220 ",
     "description": "The Jaguar XJ220 was one of the most amazing."
   },
   {
-    "id": "jenlooper-light",
+    "id": "c2",
     "maker": "Ford",
     "img": "data/images/c2.jpg",
     "title": "Ford Mastang ",
@@ -24,7 +24,7 @@
 
   },
   {
-    "id": "jenlooper-lightshow",
+    "id": "c3",
     "maker": "Tesla",
     "img": "data/images/c3.jpg",
     "title": "Tesla model s ",
@@ -32,14 +32,14 @@
 
   },
   {
-    "id": "jenlooper-survival",
+    "id": "c4",
     "maker": "Jeep",
     "img": "data/images/c4.png",
     "title": "Jeep Wrangler ",
     "description": "The 2021 Jeep® Wrangler gives you the legendary Jeep look, feel, and rugged capability with enough comfort and convenience features."
   },
   {
-    "id": "jenlooper-cactus",
+    "id": "c1",
     "maker": "Pagani",
     "img": "data/images/c1.jpg",
     "title": "Pagani Zonda ",
@@ -47,7 +47,7 @@
   },
   {
    
-    "id": "sailorhg-led",
+    "id": "c8",
     "maker": "Dodge",
     "img": "data/images/c8.jpg",
     "title": "2016 Dodge Charger Scatpack ",
@@ -55,7 +55,7 @@
 
   },
   {
-    "id": "selinazawacki-soi-pins",
+    "id": "c10",
     "maker": "Range Rover",
     "img": "data/images/c10.jpg",
     "title": "2022 Range Rover ",
@@ -63,14 +63,14 @@
   },
 
   {
-    "id": "sailorhg-kit",
+    "id": "c7",
     "maker": "Tesla",
     "img": "data/images/c7.jpg",
     "title": "Tesla Model X ",
     "description": "What else do you need when you have an electic vehical"
   },
   {
-    "id": "sailorhg-bubblesortpic",
+    "id": "c6",
     "maker": "Chevrolet",
     "img": "data/images/c6.jpg",
     "title": "Camaro",
@@ -78,21 +78,21 @@
 
   },
   {
-    "id": "vogueandcode-ruby-sis-2",
+    "id": "c15",
     "maker": "vogueandcode",
     "img": "data/images/c15.jpg",
     "title": " Mercedes-Benz EQ  class -S ",
     "description": "In September, Mercedes-Benz revealed the latest addition to it :-EQ family, the Vision EQS, an electric S-Class concept car"
   },
   {
-    "id": "sailorhg-corsage",
+    "id": "c5",
     "maker": "Chevrolet",
     "img": "data/images/c5.jpg",
     "title": " Chevrolet Corvette",
     "description": "The 2020 Corvette Stingray is available as either a coupe with a removable roof panel or a traditional convertible."
   },
   {
-    "id": "selinazawacki-soi-shirt",
+    "id": "c9",
     "maker": "Toyota",
     "img": "data/images/c9.jpg",
     "title": "Toyota Prius ",
@@ -101,18 +101,15 @@
 
 
   {
-    "id": "vogueandcode-hipster-dev-bro",
+    "id": "c11",
     "maker": "Honda",
     "img": "data/images/c11.jpg",
     "title": "Honda Civic 2021 ",
     "description": "The Civic is available in seven trim levels: LX, Sport, EX, EX-L, Touring, Sport Touring, and Type R. "
   },
 
-
-
-
   {
-    "id": "selinazawacki-moon",
+    "id": "c13",
     "maker": "Nissan",
     "img": "data/images/c13.jpg",
     "title": "1999 Nissan Skyline GT-R R34 ",
